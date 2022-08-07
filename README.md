@@ -1,4 +1,4 @@
-<img  align="left" alt="profile" src="https://github.com/shu-ti/portfolio/blob/master/mypage-img/house%20and%20bike.png" width="150px" height="auto"/>
+<img  align="left" alt="profile" src="https://github.com/shu-ti/illustration/blob/master/illustration/house%20and%20bike.png" width="150px" height="auto"/>
 
 <br/>
 <br/>
@@ -13,8 +13,8 @@
 ## Hi, Welcome to my GitHub! 👋
 <br/>
 
-- <img align="center" src="https://github.com/shu-ti/portfolio/blob/master/mypage-img/clip.png" width="20px" height="20px"/>  I’m currently working on Video app clone
-- <img align="center" src="https://github.com/shu-ti/portfolio/blob/master/mypage-img/hangingpot.png" width="20px" />  I’m currently learning Node js and React js
+- <img align="center" src="https://github.com/shu-ti/illustration/blob/master/illustration/clip.png" width="20px" height="20px"/>  I’m currently working on Video app clone
+- <img align="center" src="https://github.com/shu-ti/illustration/blob/master/illustration/hangingpot.png" width="20px" />  I’m currently learning Node js and React js
 
 
 ## Languages and tools
