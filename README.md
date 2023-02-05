@@ -13,8 +13,8 @@
 ## Hi, Welcome to my GitHub! 👋
 <br/>
 
-- <img align="center" src="https://github.com/shu-ti/illustration/blob/master/illustration/clip.png" width="20px" height="20px"/>  I’m currently working on Video app clone
-- <img align="center" src="https://github.com/shu-ti/illustration/blob/master/illustration/hangingpot.png" width="20px" />  I’m currently learning Node js and React js
+- <img align="center" src="https://github.com/shu-ti/illustration/blob/master/illustration/clip.png" width="20px" height="20px"/>  I’m currently working on Flutter mobile app
+- <img align="center" src="https://github.com/shu-ti/illustration/blob/master/illustration/hangingpot.png" width="20px" />  I’m currently learning Flutter
 
 
 ## Languages and tools
